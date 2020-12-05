@@ -6,4 +6,4 @@ Recently I prepared a webinar about some less known Fair Spark Job Scheduling ov
 And an accompanying GitHub repository is over [here](https://github.com/DataInsightsGmbH/spark-scheduling)
 
 ## Videos
-Check out my lightning talk at the Data+AI Summit 2020 [here](https://youtu.be/g-rKOWS8qWc)
+Check out my lightning talk at the Data+AI Summit 2020 about building a Spark-powered ETL framework [here](https://youtu.be/g-rKOWS8qWc)
