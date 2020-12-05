@@ -4,3 +4,6 @@ To check out my AoC 2020 edition endeavours in Scala, check it out here [AoC 202
 
 Recently I prepared a webinar about some less known Fair Spark Job Scheduling over [here](https://www.youtube.com/watch?v=e7qbrpvmOgY)
 And an accompanying GitHub repository is over [here](https://github.com/DataInsightsGmbH/spark-scheduling)
+
+## Videos
+Check out my lightning talk at the Data+AI Summit 2020 [here](https://youtu.be/g-rKOWS8qWc)
